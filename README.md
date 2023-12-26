@@ -1,2 +1,2 @@
 # cypressAutomation
-Author - Abhijit Malandkar
+Author - Abhijit (self learning)
