@@ -1,2 +1,2 @@
 # cypressAutomation
-Author - Abhijit (self learning)
+Author - Abhijit (self learning practice)
